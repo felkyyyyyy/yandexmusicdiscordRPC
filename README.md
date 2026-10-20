@@ -1,4 +1,4 @@
-# yandexmusicdiscordRPC
+# YandexMusicDiscordRPC
 # Yandex Music Discord Rich Presence
 
 A lightweight, efficient Python tool that brings Yandex Music playback status directly to your Discord profile using Windows Media APIs and `pypresence`. No Yandex Music tokens required!
