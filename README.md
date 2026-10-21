@@ -11,6 +11,9 @@ A lightweight, efficient Python tool that brings Yandex Music playback status di
 - **Smart Pause State**: Seamlessly switches to a clean paused state showing the last played track and cover when playback pauses or stops.
 - **Media Filtering**: Automatically filters out browsers, YouTube videos, and non-music sources.
 - **Customizable Buttons**: Direct quick-access buttons to open the track and the artist's page on Yandex Music.
+<img width="426" height="144" alt="Снимок экрана 2026-10-21 012238" src="https://github.com/user-attachments/assets/18d554c9-ce30-44ac-bbde-a61947be9f9c" />
+<img width="428" height="153" alt="Снимок экрана 2026-10-21 012229" src="https://github.com/user-attachments/assets/d14c973a-2658-4588-9812-8acee6ee9daf" />
+<img width="260" height="175" alt="Снимок экрана 2026-10-21 012221" src="https://github.com/user-attachments/assets/985b03c8-4c6c-41f7-ba45-2a1bc3bbe4e3" />
 
 ## 🚀 Installation & Setup
 
